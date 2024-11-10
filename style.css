@@ -1,0 +1,80 @@
+.navbar {
+    background-color: #2D898B;
+    font-family:"roboto";
+    font-weight: bolder;
+} 
+
+#logo {
+    height: 30px;
+}
+
+body{
+    background-color: #C1DFF0;
+}
+
+footer{
+    background-color: #2D898B;
+    
+}
+
+
+h1 {
+    text-align: center;
+    font-family: "roboto";
+    font-weight: bolder;
+    margin-top: 48px;
+}
+
+h2{
+font-family: "roboto";
+font-weight: normal;
+text-align: left;
+}
+
+h3{
+    text-align: center;
+    font-family: "roboto";
+    font-weight:normal;
+}
+
+p{ 
+    font-family: "roboto";
+    font-weight: lighter;
+    font-size: 19px;
+}
+
+#btn1 {
+    
+    background-color: #2D898B;
+    color: black;    
+    height: 50px;
+    text-align: center;
+    width: 150px;
+}
+
+#btn2 {
+    background-color: #B0C9D1;
+    color: black;
+    width: 160px;
+      
+}
+
+
+#planes {
+    background-color: #3587A4;
+    font-family: "roboto";
+    font-weight: normal;
+    font-size: 20px;
+}
+
+#comprar {
+    background-color: #6BAA75;
+    border-color: #6BAA75;
+    
+}
+
+#facebook{
+    height: 30px;
+
+
+}
